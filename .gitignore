@@ -18,3 +18,4 @@ typescript/!.yarn/plugins
 typescript/!.yarn/releases
 typescript/!.yarn/sdks
 typescript/!.yarn/versions
+typescript/build/**
