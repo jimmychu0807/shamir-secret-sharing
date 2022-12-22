@@ -1,0 +1,6 @@
+[submodule "ref-impl/python-impl"]
+	path = ref-impl/python-impl
+	url = https://github.com/trezor/python-shamir-mnemonic.git
+[submodule "ref-impl/js-impl"]
+	path = ref-impl/js-impl
+	url = https://github.com/ilap/slip39-js.git
